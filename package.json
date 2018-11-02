@@ -26,17 +26,17 @@
   "dependencies": {
     "debug": "*",
     "koa-compose": "^4.0.0",
-    "oidc-provider": "^2.0.0",
-    "node-jose": "*"
+    "node-jose": "*",
+    "oidc-provider": "^5.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "chai": "^3.5.0",
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.2.0",
     "co-mocha": "^1.1.2",
     "eslint": "^3.0.0",
     "eslint-plugin-babel": "^4.1.1",
-    "mocha": "^3.0.0"
+    "mocha": "^5.2.0"
   },
   "repository": "BLC-HTWChur/oauth-jwt-assertion"
 }
